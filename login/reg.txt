@@ -1,2 +1,2 @@
 reg line
-other reg line
+another reg
